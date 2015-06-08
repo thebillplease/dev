@@ -2,7 +2,7 @@
 
 Using the new Express 4.0 Router to build an API
 
-Based on [Read the tutorial](http://scotch.io/tutorials/javascript/build-a-restful-api-using-node-and-express-4)
+Based on [tutorial](http://scotch.io/tutorials/javascript/build-a-restful-api-using-node-and-express-4)
 
 ## Requirements
 
